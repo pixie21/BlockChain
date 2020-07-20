@@ -1,0 +1,22 @@
+{
+  "name": "blockchain_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixie21/BlockChain.git"
+  },
+  "author": "pixie21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixie21/BlockChain/issues"
+  },
+  "homepage": "https://github.com/pixie21/BlockChain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
